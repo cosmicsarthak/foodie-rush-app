@@ -82,6 +82,10 @@ storeFile=<keystore-file-location>
 
 - [official guide on App Release](https://docs.flutter.dev/deployment/android#build-an-app-bundle)
 
+## Admin App
+
+> [Admin App Repository](https://github.com/cosmicsarthak/foodie_rush_admin)
+
 ---
 
 [👋 `Sarthak Mohanty`](https://sarthak.app)
