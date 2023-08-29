@@ -1,6 +1,14 @@
 # Foodien Rush App
 
-Food Delivery App
+Food Delivery App built using **Flutter**
+
+#### ⚓Tech Stack
+
+- Flutter `Dart`
+- Firebase
+- Firestore
+- BloC
+- Hive
 
 > check flutter support: `flutter doctor`
 
