@@ -1,6 +1,6 @@
-# Foodien Rush App
+# Foodie Rush App
 
-Food Delivery App built using **Flutter**
+Food Delivery App built using **Flutter** - _Android_
 
 #### ⚓Tech Stack
 
